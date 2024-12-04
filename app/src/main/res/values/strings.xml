@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A影视源</string>
+
+    <string name="connection_error_title">当前无网络</string>
+    <string name="connection_error_message">正在等待网络连接，若您关闭了网络，请打开。</string>
+
+    <string name="dialog_title">提示</string>
+    <string name="dialog_exit_message">您确定要退出应用吗？</string>
+    <string name="dialog_exit_button_confirm">退出</string>
+    <string name="dialog_exit_button_dismiss">继续观看</string>
+
+</resources>
