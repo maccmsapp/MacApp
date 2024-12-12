@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">A影视源</string>
+    <string name="app_name">空壳影视</string>
 
     <string name="connection_error_title">当前无网络</string>
     <string name="connection_error_message">正在等待网络连接，若您关闭了网络，请打开。</string>

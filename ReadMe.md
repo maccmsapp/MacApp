@@ -1,6 +1,7 @@
 # App For MacCMS
 
-* **应用名称**： A影视源
+* **应用名称**： 空壳影视
+* **说明文档**： docs.mac-cms.com  
 * **应用描述**： 为MacCms开发的影视资源播放容器App，支持Android手机、平板、电视、投影仪等设备。
 * **使用帮助**： 下载安装后，打开应用，配置影视源即可看到影视资源。更多帮助请访问: [https://www.mac-cms.com/](https://www.mac-cms.com/)
 * **接口类型**： 支持各种资源采集站的API接口，也可以通过自己搭建的MacCms接口将多个资源站整合到一起。电视直播IPTV为m3u格式
@@ -10,11 +11,11 @@
 * [下载地址: https://www.mac-cms.com/](https://www.mac-cms.com/)
 
 ## 应用截图 (以电视截图为例。手机平板等类似。)
-![首页](https://mac-cms.com/images/home.jpg)
-![列表](https://mac-cms.com/images/categories.jpg)
-![电视直播](https://mac-cms.com/images/tv_ipv4.jpg)
-![详情](https://mac-cms.com/images/episode.jpg)
-![影视播放](https://mac-cms.com/images/player.jpg)
+![空壳影视首页](https://mac-cms.com/images/home.jpg)
+![空壳影视列表](https://mac-cms.com/images/categories.jpg)
+![空壳影视电视直播](https://mac-cms.com/images/tv_ipv4.jpg)
+![空壳影视详情](https://mac-cms.com/images/episode.jpg)
+![空壳影视播放](https://mac-cms.com/images/player.jpg)
 
 
 ## 接口配置
