@@ -11,11 +11,8 @@
 * [下载地址: https://www.mac-cms.com/](https://www.mac-cms.com/)
 
 ## 应用截图 (以电视截图为例。手机平板等类似。)
-![空壳影视首页](https://mac-cms.com/images/home.jpg)
-![空壳影视列表](https://mac-cms.com/images/categories.jpg)
-![空壳影视电视直播](https://mac-cms.com/images/tv_ipv4.jpg)
-![空壳影视详情](https://mac-cms.com/images/episode.jpg)
-![空壳影视播放](https://mac-cms.com/images/player.jpg)
+![空壳影视首页](https://mac-cms.com/home.webp)
+
 
 
 ## 接口配置
@@ -36,8 +33,7 @@
 >  1. 打开电视端App，点击首页右上角的"设置"按钮。  
 >  2. 点击"观看模式"，使用微信小程序扫描二维码输入发送隐私码。
 
-![privateKey](https://mac-cms.com/images/private_mode.jpg)
-![privateKey](https://mac-cms.com/images/mp.jpg)
+详细说明参见:   [docs.mac-cms.com](https://docs.mac-cms.com/)
 
 **注意：手机和电视要处在同一WIFI局域网内。**
 
